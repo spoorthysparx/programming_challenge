@@ -1,0 +1,38 @@
+{
+  "S1": {
+    "studentName": "Student 1",
+    "studentID": "S1",
+    "subject1": 100,
+    "subject2": 98,
+    "subject3": 76,
+    "subject4": 82,
+    "subject5": 92
+  },
+  "S2": {
+    "studentName": "Student 2",
+    "studentID": "S2",
+    "subject1": 92,
+    "subject2": 100,
+    "subject3": 98,
+    "subject4": 76,
+    "subject5": 82
+  },
+  "S3": {
+    "studentName": "Student 3",
+    "studentID": "S3",
+    "subject1": 76,
+    "subject2": 92,
+    "subject3": 100,
+    "subject4": 98,
+    "subject5": 76
+  },
+  "S4": {
+    "studentName": "Student 2",
+    "studentID": "S4",
+    "subject1": 82,
+    "subject2": 76,
+    "subject3": 92,
+    "subject4": 100,
+    "subject5": 98
+  }
+}
